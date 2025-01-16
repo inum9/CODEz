@@ -1,0 +1,3 @@
+          CODEz is a kind of leetcode derivative or so called clone !! 
+          its only help user to understand the user about basic #code manual ... 
+          
