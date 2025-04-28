@@ -1,6 +1,7 @@
 {
   "name": "codez",
   "version": "1.0.0",
+<<<<<<< HEAD
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -31,5 +32,24 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.9"
+=======
+  "description": "nothing just one more mern project ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js ",
+    "dev":"nodemon index.js "
+   
+  },
+  "author": "inum9",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.4"
+>>>>>>> 591723081154e3b3bed995a10a001f184ef54ddc
   }
 }
